@@ -7,7 +7,7 @@ def index(request):
     product1 = Product()
     product1.id = 1
     product1.name = 'ESSE GOLD'
-    product1.description = 'Ciggerate comes and goes but gold remains'
+    product1.description = 'Cigarette comes and goes but gold remains'
     product1.rating = 1
     product1.mrp = 200
     product1.rate = 150
